@@ -3,3 +3,4 @@
 Hello world test2
 try
 Merge request
+- New point
